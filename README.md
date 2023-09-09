@@ -22,7 +22,4 @@ let todayWeather = Random.choice(weather); // rainy | snowy | sunny
 let cards = ['queen', 'king', 'ace'];
 
 let shuffledCards = Random.shuffle(cards); // all possible variations of array items placed
-
-
-console.log(myInt, myFloat, todayWeather, shuffledCards);
 ```
