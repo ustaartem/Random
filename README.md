@@ -1,5 +1,5 @@
 # "Random" JS Library
-```
+```js
 // set a name for Random library (optional)
 let myPreferedName = Random;
 
